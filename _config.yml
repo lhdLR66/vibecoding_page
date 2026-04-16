@@ -1,0 +1,34 @@
+# GitHub Pages 配置
+title: 个人工作看板
+description: 现代时尚的个人工作看板
+baseurl: ""
+url: "https://lhdLR66.github.io/vibecoding_page"
+theme: null
+
+# 插件
+plugins: []
+
+# 构建设置
+markdown: kramdown
+highlighter: rouge
+
+# 排除文件
+exclude:
+  - README.md
+  - preview.py
+  - preview.bat
+  - preview.sh
+  - reference/
+  - .gitignore
+  - .github/
+
+# 包含文件
+include:
+  - .nojekyll
+
+# 默认页面
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: null
