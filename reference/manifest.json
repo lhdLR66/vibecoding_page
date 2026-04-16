@@ -1,0 +1,15 @@
+{
+  "updatedAt": "2026-04-16T09:48:38.393Z",
+  "files": [
+    {
+      "path": "research/001-reference.md",
+      "category": "research",
+      "writtenAt": "2026-04-16T09:48:06.037Z"
+    },
+    {
+      "path": "design/001-reference.md",
+      "category": "design",
+      "writtenAt": "2026-04-16T09:48:38.393Z"
+    }
+  ]
+}
